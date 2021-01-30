@@ -1,7 +1,9 @@
 
 
 
-<h1 align="center">:wave: Hey There I'm Mouaz And I'm A Web Devleoper :wave:</h1>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hey There I'm Mouaz And I'm A Web Devleoper</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center" >I'm a coder. I love to learn stuff every day, whatever it is, especially things related to coding and tech<br>
 I've learned so far a fair amount of Computer, Web Languages, and I'm happy to know more about every ms<br>
 my main focus now is on web development with all kinds and web scraping using JS and Python-Selenium<br>
