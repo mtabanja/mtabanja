@@ -58,7 +58,7 @@ and as a hobby on the side, I'm digging into cybersecurity, and I already have s
 
 
 
-<p align="center">You can find me on Linked<p>
+<p align="center">You can find me on here on LinkedIn<p>
   
 <p align="center"><a href="https://linkedIn.com/in/mouaz-tabanja"><img src="https://imgur.com/jmDVIMu.png"/></a><p>
 
